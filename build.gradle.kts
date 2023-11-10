@@ -20,7 +20,7 @@ repositories {
 }
 
 dependencies {
-	implementation("org.apache.groovy:groovy-core:4.0.15")
+	implementation("org.apache.groovy:groovy:4.0.15")
 	implementation("org.springframework.boot:spring-boot-starter")
 	implementation("org.springframework.boot:spring-boot-starter-web")
 	implementation("org.springframework.security:spring-security-core")
